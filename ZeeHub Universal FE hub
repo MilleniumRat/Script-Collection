@@ -1,0 +1,8 @@
+
+--[[
+   Universal FE animations GUI (tested with zenith)
+   Name: Zee Hub V5
+   Credits: Onlyscripts
+]]
+
+loadstring(game:HttpGet("https://gist.githubusercontent.com/Onlyscripts1/9fd2be4c357b946f3dad4a361386ed73/raw/a5c0c057d3fd98251745000c602c98174d442669/Zee%20Hub%20V5"))()
