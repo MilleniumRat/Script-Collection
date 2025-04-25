@@ -1,0 +1,2 @@
+-- Mainly for Fencing used with Fencing Tool Spammer
+loadstring(game:HttpGet('https://pastebin.one/raw/tung-56388', true))()
