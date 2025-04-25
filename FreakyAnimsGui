@@ -1,2 +1,10 @@
 -- "freaky" gui. Simple for R6 not much
 loadstring(game:HttpGet("https://raw.githubusercontent.com/ShutUpJamesTheLoser/freaky/refs/heads/main/fe", true))()
+
+-- Another Freaky GUI (bj) 
+
+loadstring(
+    game:HttpGet(
+        'https://raw.githubusercontent.com/ShutUpJamesTheLoser/freakyv94/refs/heads/main/freakyv94yes'
+    )
+)()
